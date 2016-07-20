@@ -1,5 +1,5 @@
 .DS_Store
-.mp4
-.avi
-.mov
-.ogg
+*.mp4
+*.avi
+*.mov
+*.ogg

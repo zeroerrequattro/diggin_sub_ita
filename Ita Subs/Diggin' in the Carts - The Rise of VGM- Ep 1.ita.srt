@@ -143,8 +143,7 @@ o forse solo un effetto sonoro
 
 34
 00:01:44,768 --> 00:01:48,989
-♪ (suoni e rumori da 
-Space Invaders) ♪
+♪ (suoni e rumori da Space Invaders) ♪
 
 35
 00:01:49,59 --> 00:01:53,436
@@ -262,12 +261,12 @@ come un virus, è infetta
 
 62
 00:03:26,496 --> 00:03:29,800
-è uscito da questo piccolo mondo
+è uscita da questo piccolo mondo
 dei giochi 8-bit
 
 63
 00:03:29,800 --> 00:03:33,395
-E si è espanso per infettare
+E si è espansa per infettare
 così tanti generi differenti
 
 64
@@ -298,7 +297,7 @@ in qualche modo ci ha influenzato tutti,
 
 70
 00:03:52,575 --> 00:03:54,718
-perchè tutti abbiamo giocati ai videogiochi
+perchè tutti abbiamo giocato ai videogiochi
 
 71
 00:03:54,718 --> 00:03:57,5
@@ -369,7 +368,7 @@ si mettevano alla prova
 
 86
 00:04:56,501 --> 00:04:59,70
-ed era tutto pieno di vitalità
+era tutto pieno di vitalità
 
 87
 00:04:59,71 --> 00:05:01,641
@@ -377,7 +376,7 @@ ed era tutto pieno di vitalità
 
 88
 00:05:01,641 --> 00:05:04,212
-Al tempo,
+Al tempo
 
 89
 00:05:04,212 --> 00:05:08,395
@@ -405,7 +404,7 @@ sarei stata rapita
 94
 00:05:18,65 --> 00:05:23,885
 ed avrebbero chiesto i progetti per un nuovo gioco
-invece che un riscatto
+invece del riscatto
 
 95
 00:05:23,885 --> 00:05:25,965
@@ -423,11 +422,11 @@ The Tower of Druaga, stavo studiando
 98
 00:05:37,268 --> 00:05:42,486
 ed ho scritto la mia musica
-con il mio driver audio
+con il mio sound driver
 
 99
 00:05:42,486 --> 00:05:44,968
-Il driver audio era
+Il sound driver era
 
 100
 00:05:44,968 --> 00:05:51,994
@@ -448,7 +447,7 @@ e li riproduceva in forma musicale
 
 104
 00:05:58,974 --> 00:06:05,998
-♪ (THEME OF QUOX) ♪
+♪ (Theme of Quox) ♪
 
 105
 00:06:14,278 --> 00:06:17,286
@@ -522,7 +521,7 @@ e ci sono tante onde differenti
 
 121
 00:07:04,17 --> 00:07:08,371
-Ogni singola onda era molto carina
+Ogni singola onda è molto carina
 
 122
 00:07:08,371 --> 00:07:12,15
@@ -544,7 +543,7 @@ non ti permetteva di suonare
 
 126
 00:07:20,941 --> 00:07:23,133
-con una tastiera, così
+con una tastiera come questa
 
 127
 00:07:23,134 --> 00:07:27,569
@@ -565,8 +564,7 @@ E poi n°1
 
 131
 00:07:36,740 --> 00:07:39,642
-♪ (Tonalità differenti di
-Do, Re, Mi, Fa, Sol, La, Si, Do) ♪
+♪ (Do, Re, Mi, Fa, Sol, La, Si, Do) ♪
 
 132
 00:07:39,722 --> 00:07:43,482
@@ -591,7 +589,7 @@ Penso sia un bel suono
 137
 00:07:48,361 --> 00:07:55,320
 Il n°6 è una sinusoidale
-anche questa è un suono tipico
+Anche questa è un suono tipico
 
 138
 00:07:55,371 --> 00:08:00,798
@@ -633,8 +631,7 @@ da nessun'altro strumento
 
 147
 00:08:30,781 --> 00:08:35,131
-Credo che entrambi siano
-strumenti individuali
+Credo che entrambi siano strumenti
 
 148
 00:08:35,131 --> 00:08:38,10
@@ -759,7 +756,6 @@ dell'hardware sonoro del Game Boy
 174
 00:10:02,277 --> 00:10:06,188
 E' un po' come questo ragazzo idol
-He’s kinda of like this idol guy
 
 175
 00:10:06,188 --> 00:10:08,181
@@ -801,7 +797,7 @@ il cartone, il tema musicale del film e così via
 
 184
 00:10:48,273 --> 00:10:49,470
-Questo è il tempio TOFUKU-JI
+Questo è il tempio Tōfuku-ji
 
 185
 00:10:49,470 --> 00:10:53,460
@@ -864,12 +860,12 @@ con i giochi arcade
 
 198
 00:11:27,235 --> 00:11:30,81
-Ho fatto tutti i chip sonori da me
+mi facevo da solo i chip sonori
 
 199
 00:11:30,81 --> 00:11:34,336
-ma con il NES
-c'era un chip audio al suo interno
+ma con il NES c'era
+un chip audio al suo interno
 
 200
 00:11:34,336 --> 00:11:37,738
@@ -878,7 +874,7 @@ con la CPU invece
 
 201
 00:11:37,738 --> 00:11:39,733
-così, è diventato facile creare
+così è diventato facile creare
 
 202
 00:11:39,733 --> 00:11:42,93
@@ -920,7 +916,7 @@ in Nintendo, intorno al 1986 o '87
 
 211
 00:12:07,552 --> 00:12:12,235
-Entrai in questo posto un paio di volte
+Entravo in questo posto un paio di volte
 la settimana per una birra
 
 212
@@ -935,12 +931,12 @@ mi fa battere il cuore all'impazzata
 
 214
 00:12:20,601 --> 00:12:24,53
-Quando vidi i tre colori rosso,
+Quando vedo i colori rosso,
 giallo e verde in giro per la città
 
 215
 00:12:24,53 --> 00:12:28,126
-pensai 'Reggae!'
+penso 'Reggae!'
 Ecco quanto mi piace
 
 216
@@ -1001,12 +997,12 @@ per sorprendere la gente mentre giocava
 
 228
 00:13:21,175 --> 00:13:25,623
-L'ho collegato a delle grandi casse
-come queste
+L'ho collegato a delle
+grandi casse come queste
 
 229
 00:13:25,624 --> 00:13:29,928
-ed ho provato ad imitare il suono rock
+ed ho provato ad imitare il rock
 con un Game Boy
 
 230
@@ -1016,7 +1012,7 @@ e simili alle onde quadre
 
 231
 00:13:33,218 --> 00:13:36,248
-così il Game Boy è buono per
+il Game Boy è buono per
 fare i suoni della chitarra
 
 232
@@ -1060,7 +1056,7 @@ Non era così differente dall'essere un bambino
 
 241
 00:14:04,510 --> 00:14:06,516
-ed andare nella vasca della sabbia
+andare nella vasca della sabbia
 per la prima volta
 
 242
