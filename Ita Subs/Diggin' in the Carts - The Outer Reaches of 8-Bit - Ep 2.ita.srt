@@ -5,11 +5,11 @@ il mondo in così tanti modi
 
 2
 00:00:04,415 --> 00:00:05,880
-il cibo,
+il cibo
 
 3
 00:00:05,880 --> 00:00:07,560
-la tecnologia,
+la tecnologia
 
 4
 00:00:07,576 --> 00:00:09,724
@@ -790,7 +790,7 @@ io non ero sicuro di farcela
 186
 00:14:01,289 --> 00:14:05,348
 Ero ossessionato dal pensiero
-che se avevo scritte quel tipo di brano prima
+che se avevo scritto quel tipo di brano prima
 
 187
 00:14:05,349 --> 00:14:07,477
