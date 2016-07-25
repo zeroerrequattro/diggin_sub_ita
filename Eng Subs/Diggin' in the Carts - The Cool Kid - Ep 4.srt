@@ -1,0 +1,1201 @@
+1
+00:00:00,000 --> 00:00:04,366
+(Narrator) Japan is a nation that has
+influenced the world in so many ways.
+
+2
+00:00:04,366 --> 00:00:05,856
+Be it there food,
+
+3
+00:00:05,857 --> 00:00:07,391
+their technology,
+
+4
+00:00:07,391 --> 00:00:10,925
+or their contributions to popular culture
+like video games.
+
+5
+00:00:10,925 --> 00:00:13,739
+For many of us
+the music of video games played more
+
+6
+00:00:13,739 --> 00:00:18,413
+in our households growing up
+than any other form of music at the time.
+
+7
+00:00:18,413 --> 00:00:24,201
+Yet for most of us, the composers behind
+these timeless melodies remain faceless.
+
+8
+00:00:24,201 --> 00:00:26,740
+DIGGIN' IN THE CARTS is about
+unearthing the men & women
+
+9
+00:00:26,740 --> 00:00:29,229
+who inspired an entire generation
+
+10
+00:00:29,230 --> 00:00:34,220
+while arguably creating Japan's biggest
+musical export to the world.
+
+11
+00:00:34,220 --> 00:00:37,946
+(chirping)
+
+12
+00:00:37,946 --> 00:00:39,250
+(beep)
+
+13
+00:00:39,250 --> 00:00:43,380
+(chirping)
+
+14
+00:00:43,380 --> 00:00:45,343
+(beep)
+
+15
+00:00:45,343 --> 00:00:48,156
+(chirping)
+
+16
+00:00:48,156 --> 00:00:53,580
+(Narrator) By the early '90s, video game music
+had become big business globally
+
+17
+00:00:53,580 --> 00:00:57,360
+At the center of it,
+there was a legendary battle.
+
+18
+00:00:57,360 --> 00:01:00,410
+Early on, Nintendo was the dominant player
+in the video game market,
+
+19
+00:01:00,410 --> 00:01:03,000
+but with the release of their
+Mega Drive (Genesis) console
+
+20
+00:01:03,000 --> 00:01:07,626
+Sega was ready to stake a bigger claim
+of the home console market globally.
+
+21
+00:01:09,346 --> 00:01:11,962
+♪ (SEGA's sound logo) ♪
+
+22
+00:01:11,962 --> 00:01:14,58
+(Man) Do I remember the moment
+I got my first Genesis?
+
+23
+00:01:14,58 --> 00:01:15,724
+Yes I do.
+
+24
+00:01:15,724 --> 00:01:17,949
+It was like getting married as a child.
+
+25
+00:01:17,949 --> 00:01:20,74
+I now pronounce you man and SEGA.
+
+26
+00:01:20,74 --> 00:01:23,600
+When I got a Mega Drive,
+everything kinda felt a little bit complete.
+
+27
+00:01:23,600 --> 00:01:27,000
+In terms of the music that was out
+at the time, the films
+
+28
+00:01:27,000 --> 00:01:29,820
+And now this technology,
+now these video games.
+
+29
+00:01:29,820 --> 00:01:31,196
+(Man) When the Genesis came out
+
+30
+00:01:31,196 --> 00:01:34,472
+it completely changed 
+games and game music.
+
+31
+00:01:34,472 --> 00:01:38,429
+Me, myself I’d say SEGA music
+kicked ass more than like…
+
+32
+00:01:38,430 --> 00:01:40,580
+Whatever other music there was.
+
+33
+00:01:40,580 --> 00:01:45,963
+Mega Drive was unlike the NES or PC Engine
+
+34
+00:01:45,963 --> 00:01:48,295
+because of its FM synth.
+
+35
+00:01:48,296 --> 00:01:52,490
+You went from having like the super simple
+pristine square wave sounds,
+
+36
+00:01:52,490 --> 00:01:55,136
+and suddenly you have musicians
+
+37
+00:01:55,136 --> 00:01:58,280
+working with the same stuff 
+that was on the DX7
+
+38
+00:01:58,280 --> 00:02:01,46
+like synths that were
+being used in Tears For Fears
+
+39
+00:02:01,46 --> 00:02:04,460
+and just like pop music
+everywhere at that time.
+
+40
+00:02:04,460 --> 00:02:08,744
+♪ (MAIN THEME from Space Harrier) ♪
+
+41
+00:02:08,744 --> 00:02:16,810
+I think the coolest game company
+in the arcades in the 80s had to be SEGA.
+
+42
+00:02:16,810 --> 00:02:21,606
+Hiroshi Kawaguchi established SEGA music.
+
+43
+00:02:21,606 --> 00:02:24,302
+You can call him SEGA's music itself.
+
+44
+00:02:24,302 --> 00:02:28,594
+He was consistently trying to bring 
+game music closer to a real band sound.
+
+45
+00:02:43,776 --> 00:02:46,500
+I'm Hiro and I work
+as a sound creator for SEGA.
+
+46
+00:02:46,500 --> 00:02:50,620
+This is my 30th year.
+
+47
+00:02:51,140 --> 00:02:53,500
+♪ (HANG-ON THEME continues) ♪
+
+48
+00:02:54,590 --> 00:02:57,320
+The first time my music was used
+was in Hang-On.
+
+49
+00:02:57,320 --> 00:03:02,880
+At the time rock band style music was
+pretty rare in games.
+
+50
+00:03:03,870 --> 00:03:06,780
+♪ (HANG-ON THEME continues) ♪
+
+51
+00:03:07,990 --> 00:03:12,160
+The Hang-On machine was
+developed specifically by SEGA,
+
+52
+00:03:12,160 --> 00:03:14,920
+to be able to use PCM, a sampler.
+
+53
+00:03:14,920 --> 00:03:17,559
+So, if you made it play drums,
+
+54
+00:03:17,560 --> 00:03:21,910
+then you could use it as an instrument.
+
+55
+00:03:22,000 --> 00:03:24,700
+This is called "Sega Music".
+
+56
+00:03:24,700 --> 00:03:28,55
+Got this in Japan, long time ago.
+
+57
+00:03:28,56 --> 00:03:30,232
+♪ (SQUILLA from Space Harrier) ♪
+
+58
+00:03:30,232 --> 00:03:32,826
+Come on man, this is evil.
+
+59
+00:03:32,826 --> 00:03:33,920
+This is evil music.
+
+60
+00:03:33,920 --> 00:03:35,280
+(vinyl noise)
+
+61
+00:03:42,000 --> 00:03:50,656
+♪ (SQUILLA continues) ♪
+
+62
+00:03:50,656 --> 00:03:53,357
+(going up an octave)
+
+63
+00:03:53,357 --> 00:04:07,868
+♪ (SQUILLA continues) ♪
+
+64
+00:04:07,868 --> 00:04:10,339
+(going down an octave)
+
+65
+00:04:10,339 --> 00:04:12,583
+Hip-Hop. 100%.
+
+66
+00:04:12,583 --> 00:04:14,310
+Somebody go rap on that.
+
+67
+00:04:14,310 --> 00:04:16,817
+♪ (Vinyl version of SQUILLA continues) ♪
+
+68
+00:04:17,726 --> 00:04:21,265
+♪ (IDA from Space Harrier) ♪
+
+69
+00:04:21,265 --> 00:04:25,953
+Making music back then was a nightmare
+compared to now.
+
+70
+00:04:25,953 --> 00:04:29,310
+You had to play it first on a keyboard
+
+71
+00:04:29,310 --> 00:04:32,690
+and record it on a cassette as a sketch.
+
+72
+00:04:32,690 --> 00:04:35,60
+Based on that, you'd play it
+a bunch of times
+
+73
+00:04:35,60 --> 00:04:36,860
+and write down
+the final version on a score.
+
+74
+00:04:36,860 --> 00:04:41,140
+After writing the score,
+there'd be a dev PC
+
+75
+00:04:41,140 --> 00:04:44,760
+and you'd input it in with digits.
+
+76
+00:04:44,760 --> 00:04:46,880
+All with digits.
+
+77
+00:04:46,880 --> 00:04:50,260
+Then you'd compile
+what you'd input in with the PC,
+
+78
+00:04:50,260 --> 00:04:53,840
+and load it onto a board.
+
+79
+00:04:54,420 --> 00:04:57,63
+And when you hit play,
+it'd finally make a sound.
+
+80
+00:04:57,423 --> 00:04:59,236
+♪ (MAGICAL SOUND SHOWER from OutRun) ♪
+
+81
+00:04:59,236 --> 00:05:01,770
+(Man) Sega had a strong presence
+in the arcade market.
+
+82
+00:05:01,770 --> 00:05:04,320
+I’ll never forget the first time
+I saw Outrun.
+
+83
+00:05:04,320 --> 00:05:07,476
+And I was just mesmerized by the fact
+that I could sit in a car that moved
+
+84
+00:05:07,476 --> 00:05:08,934
+when you played this game.
+
+85
+00:05:08,934 --> 00:05:12,770
+But then I put my 50 cents in 
+and the first thing you see is
+
+86
+00:05:12,770 --> 00:05:15,859
+the hand with the radio,
+and you could pick four songs
+
+87
+00:05:15,860 --> 00:05:17,790
+It was like "Summer Breeze",
+or "Passing Breeze".
+
+88
+00:05:17,800 --> 00:05:21,993
+This is crazy, this is a video game music.
+
+89
+00:05:21,993 --> 00:05:33,328
+♪ (Vinyl version of PASSING BREEZE
+from OutRun) ♪
+
+90
+00:05:35,868 --> 00:05:37,528
+Oh, oh.
+
+91
+00:05:47,208 --> 00:05:53,918
+♪ (PASSING BREEZE continues) ♪
+
+92
+00:05:54,978 --> 00:05:57,20
+What the hell is that?
+
+93
+00:05:58,500 --> 00:06:01,220
+What’s Latin Jazz doing on a video game?
+
+94
+00:06:03,380 --> 00:06:05,772
+(Hiro) The original concept of OutRun
+
+95
+00:06:05,773 --> 00:06:08,976
+was as a driving game
+rather than a racing game.
+
+96
+00:06:08,976 --> 00:06:11,10
+When I worked on the game
+
+97
+00:06:11,10 --> 00:06:14,000
+the development team actually went to
+Florida and San Francisco
+
+98
+00:06:14,000 --> 00:06:16,30
+to scout locations.
+
+99
+00:06:16,30 --> 00:06:17,640
+Although I didn't go myself.
+
+100
+00:06:17,640 --> 00:06:20,760
+I looked at the pictures and videos,
+which made me feel like I was driving there.
+
+101
+00:06:20,760 --> 00:06:23,522
+I imagined what music would suit
+driving down one of those straight roads,
+
+102
+00:06:23,523 --> 00:06:25,406
+and used that image to make the music.
+
+103
+00:06:25,406 --> 00:06:28,190
+OutRun had three background tracks
+
+104
+00:06:28,190 --> 00:06:31,10
+so I thought of making
+the first track fusion
+
+105
+00:06:31,10 --> 00:06:33,99
+and the second track rock.
+
+106
+00:06:33,100 --> 00:06:36,10
+I wanted the third track
+to be different to those,
+
+107
+00:06:36,10 --> 00:06:38,810
+So I decided on the Latin genre first.
+
+108
+00:06:39,900 --> 00:06:44,000
+I'd have been happiest if people had felt
+like they were actually in their own car
+
+109
+00:06:44,000 --> 00:06:46,666
+with the radio playing.
+
+110
+00:06:46,666 --> 00:06:49,332
+♪ (PASSING BREEZE continues) ♪
+
+111
+00:06:50,922 --> 00:06:53,170
+(J-ROCC) This is from the video game OutRun.
+
+112
+00:06:53,170 --> 00:06:56,670
+Songs called Sprash Wave.
+
+113
+00:06:56,670 --> 00:06:59,726
+I’m sure it means Splash Wave.
+
+114
+00:06:59,726 --> 00:07:02,4
+It’s called Sprash Wave.
+
+115
+00:07:02,4 --> 00:07:08,522
+♪ (SPLASH WAVE from OutRun) ♪
+
+116
+00:07:08,522 --> 00:07:11,618
+The best thing about making music back then
+
+117
+00:07:11,618 --> 00:07:14,322
+was that the technology evolved every time.
+
+118
+00:07:14,322 --> 00:07:17,364
+Wondering what kind of sounds
+I could make with this hardware
+
+119
+00:07:17,364 --> 00:07:22,205
+and then programming it to bring the best
+out of it was very interesting for me.
+
+120
+00:07:22,206 --> 00:07:27,740
+I felt really happy to be able
+to make a job out of that.
+
+121
+00:07:27,980 --> 00:07:29,910
+(J-ROCC) When you was a kid,
+you're not thinking
+
+122
+00:07:29,910 --> 00:07:32,876
+there’s a dude who’s putting mad thought 
+behind that.
+
+123
+00:07:32,876 --> 00:07:36,729
+Like, "Yo – I just listened to
+Yellow Magic Orchestra"
+
+124
+00:07:36,729 --> 00:07:38,692
+"and Herbie Hancock today"
+
+125
+00:07:38,692 --> 00:07:40,716
+“I’m gonna make Splash Wave.”
+
+126
+00:07:40,716 --> 00:07:44,420
+You don't think there’s a dude
+who thinks that you know?
+
+127
+00:07:44,420 --> 00:07:45,660
+That’s crazy, man.
+
+128
+00:07:45,660 --> 00:07:52,286
+♪ (OPENING from Sonic the Hedgehog) ♪
+
+129
+00:07:52,286 --> 00:07:54,234
+♪ (GREEN HILL ZONE
+from Sonic the Hedgehog) ♪
+
+130
+00:07:54,234 --> 00:08:00,241
+♪Da, Da, Da, Da, Da, Da ♪
+
+131
+00:08:00,242 --> 00:08:06,688
+♪ (GREEN HILL ZONE continues) ♪
+
+132
+00:08:06,878 --> 00:08:13,724
+(humming GREEN HILL ZONE)
+
+133
+00:08:13,724 --> 00:08:15,482
+I can sing the whole thing.
+
+134
+00:08:15,482 --> 00:08:18,510
+♪ (GREEN HILL ZONE continues) ♪
+
+135
+00:08:18,510 --> 00:08:22,849
+(Uchizawa) Sonic the Hedgehog is
+a very famous character in Japan.
+
+136
+00:08:22,850 --> 00:08:28,790
+In Japan, Sonic was compared
+to Super Mario to some extent,
+
+137
+00:08:28,790 --> 00:08:34,346
+but he had a cooler image.
+
+138
+00:08:34,346 --> 00:08:39,12
+♪ (EMERALD HILL ZONE from 
+Sonic the Hedgehog 2) ♪
+
+139
+00:08:39,11 --> 00:08:42,743
+(Man) The first time I played Sonic 
+it was like,
+
+140
+00:08:42,744 --> 00:08:44,426
+I was almost ready to give up.
+
+141
+00:08:44,426 --> 00:08:47,60
+'Cause the dude was too fast, 
+you know what I’m saying?
+
+142
+00:08:47,60 --> 00:08:48,489
+I’m like, what the hell is this?
+
+143
+00:08:48,490 --> 00:08:52,560
+I remember seeing Sonic the Hedgehog
+for the first time.
+
+144
+00:08:52,560 --> 00:08:55,989
+And just being, just mind blown.
+
+145
+00:08:56,000 --> 00:08:57,666
+Just, what is possible?
+
+146
+00:08:57,666 --> 00:09:00,502
+How are those colors so vibrant.
+
+147
+00:09:00,502 --> 00:09:02,000
+And how is it so amazing.
+
+148
+00:09:02,000 --> 00:09:04,46
+HOW DOES HE MOVE SO FAST?
+
+149
+00:09:04,46 --> 00:09:05,622
+It was crazy.
+
+150
+00:09:05,622 --> 00:09:09,10
+My favorite song from Sonic 1
+was ‘Spring Yard Zone’.
+
+151
+00:09:09,10 --> 00:09:12,330
+That joint was so funky, man.
+
+152
+00:09:12,330 --> 00:09:15,600
+That was like one of my first experiences
+with funk I think honestly.
+
+153
+00:09:25,20 --> 00:09:28,203
+Whoever created it,
+it was like a perfect match
+
+154
+00:09:28,203 --> 00:09:31,146
+with the game with the music.
+
+155
+00:09:31,146 --> 00:09:32,30
+Who did that?
+
+156
+00:09:32,30 --> 00:09:34,000
+The music of Sonic the Hedgehog
+
+157
+00:09:34,000 --> 00:09:38,60
+was done by Masato Nakamura
+from Dreams Come True.
+
+158
+00:09:38,60 --> 00:09:42,10
+As Nakamura-san is a J-Pop artist,
+
+159
+00:09:42,10 --> 00:09:48,10
+he really captured the cool and pop
+feeling of Sonic in the music,
+
+160
+00:09:48,10 --> 00:09:53,83
+and it felt like listening to J-Pop
+while playing the game.
+
+161
+00:09:53,323 --> 00:09:56,326
+♪ (SPRING YARD ZONE continues) ♪
+
+162
+00:10:13,876 --> 00:10:16,584
+(Hally) The one who started
+using the FM synth
+
+163
+00:10:16,584 --> 00:10:21,222
+before anybody else did, in an accurate,
+realistic and rich manner
+
+164
+00:10:21,222 --> 00:10:22,680
+was Yuzo Koshiro.
+
+165
+00:10:22,680 --> 00:10:26,770
+He was referred to as
+the "magician of FM synth".
+
+166
+00:10:26,770 --> 00:10:31,970
+Yuzo Koshiro made the music
+for the Streets of Rage games.
+
+167
+00:10:31,970 --> 00:10:37,916
+I feel like he took
+the position of game music composers
+
+168
+00:10:37,916 --> 00:10:40,72
+to a higher level.
+
+169
+00:10:40,72 --> 00:10:42,544
+(Woman) Yuzo Koshiro was
+ extremely important
+
+170
+00:10:42,544 --> 00:10:43,925
+for video game music.
+
+171
+00:10:43,936 --> 00:10:48,807
+This was the first time
+ the music was a very important
+
+172
+00:10:48,807 --> 00:10:51,978
+and credited element of a video game.
+
+173
+00:10:51,978 --> 00:10:56,962
+Like, "Music by" … It was like,
+very, um, Hollywood movie."
+
+174
+00:10:56,962 --> 00:11:02,106
+♪ (FIGHTING IN THE STREET 
+from Streets of Rage) ♪
+
+175
+00:11:02,106 --> 00:11:03,887
+(Flying Lotus) I love Streets of Rage, man,
+
+176
+00:11:03,887 --> 00:11:07,78
+that was one of my favorite,
+that’s the best beat 'em up to me.
+
+177
+00:11:07,78 --> 00:11:11,000
+People like Final Fight and all that,
+I love Streets of Rage.
+
+178
+00:11:11,000 --> 00:11:13,40
+(Ikonika) The music of Streets of Rage,
+
+179
+00:11:13,40 --> 00:11:15,620
+there was something
+very futuristic about it
+
+180
+00:11:15,620 --> 00:11:18,000
+I guess because it was very techno.
+
+181
+00:11:18,000 --> 00:11:20,666
+But also very jazzy, and very street.
+
+182
+00:11:21,466 --> 00:11:24,132
+♪ (FIGHTING IN THE STREET continues) ♪
+
+183
+00:11:24,662 --> 00:11:27,10
+That Streets of Rage soundtrack
+
+184
+00:11:27,10 --> 00:11:30,10
+brought house music … to
+
+185
+00:11:30,10 --> 00:11:35,990
+3 year olds, it’s insane.
+
+186
+00:11:35,990 --> 00:11:46,30
+♪ (THE STREETS OF RAGE continues) ♪
+
+187
+00:11:46,610 --> 00:11:47,950
+I'm Yuzo Koshiro.
+
+188
+00:11:47,950 --> 00:11:51,970
+I compose game music.
+
+189
+00:11:55,380 --> 00:11:59,630
+I think people who liked old club music
+will listen to this
+
+190
+00:11:59,630 --> 00:12:03,880
+and think "Ah Soul II Soul and Enigma".
+
+191
+00:12:03,880 --> 00:12:08,306
+This kind of subtle, swinging beat
+
+192
+00:12:08,306 --> 00:12:10,792
+wasn't in any Japanese music back then,
+
+193
+00:12:10,792 --> 00:12:13,140
+and, of course,
+it wasn't in any game music.
+
+194
+00:12:13,140 --> 00:12:17,640
+I could make the same kind of sounds
+with FM synthesis.
+
+195
+00:12:17,640 --> 00:12:20,910
+Not only with FM synthesis,
+but with a 1ch PCM too.
+
+196
+00:12:20,910 --> 00:12:24,640
+For example, among the famous
+Roland instruments,
+
+197
+00:12:24,640 --> 00:12:29,290
+there were the TR-909 
+and the TR-808 drum machines.
+
+198
+00:12:29,290 --> 00:12:33,650
+I sampled those sounds
+and put together a beat.
+
+199
+00:12:33,650 --> 00:12:35,640
+The process of putting together
+those beats
+
+200
+00:12:35,640 --> 00:12:39,360
+was really exciting and a lot of fun.
+
+201
+00:12:39,360 --> 00:12:46,860
+♪ (DREAMER from Streets of Rage 2) ♪
+
+202
+00:12:46,860 --> 00:12:49,10
+When we did Streets of Rage,
+
+203
+00:12:49,10 --> 00:12:53,896
+it was around the time the Genesis
+started selling very strongly
+
+204
+00:12:53,896 --> 00:12:55,973
+in North America and Europe.
+
+205
+00:12:55,974 --> 00:13:00,632
+Club music was growing in popularity
+overseas at the time.
+
+206
+00:13:00,632 --> 00:13:05,69
+I believed people loved club music,
+
+207
+00:13:05,70 --> 00:13:08,303
+so I thought if I could put this
+into game music,
+
+208
+00:13:08,303 --> 00:13:11,496
+then they'd be really happy.
+
+209
+00:13:11,496 --> 00:13:14,329
+And I made the bold decision to give
+ Streets of Rage
+
+210
+00:13:14,330 --> 00:13:16,854
+a house or techno kind of sound.
+
+211
+00:13:16,854 --> 00:13:19,732
+(Just Blaze) Oh, men,
+I don't think Yuzo was…
+
+212
+00:13:19,732 --> 00:13:21,140
+he might've been Japanese descent,
+
+213
+00:13:21,140 --> 00:13:23,520
+But I don't think he grew up in Japan,
+I think he grew up in Detroit.
+
+214
+00:13:23,520 --> 00:13:26,590
+There was an authenticness
+in Streets of Rage 2.
+
+215
+00:13:26,590 --> 00:13:29,360
+That you didn't hear,
+
+216
+00:13:29,360 --> 00:13:32,156
+I don't think in a video game previously
+
+217
+00:13:32,156 --> 00:13:34,661
+when it came it like, to dance music.
+
+218
+00:13:34,662 --> 00:13:37,000
+The thing about his work was
+that it was very fresh.
+
+219
+00:13:37,000 --> 00:13:41,520
+Even if he was being inspired by 
+what was actually happening in the clubs.
+
+220
+00:13:41,520 --> 00:13:45,460
+He made it,
+he somehow technologically made it possible
+
+221
+00:13:45,460 --> 00:13:48,700
+to insert that into a video game.
+
+222
+00:13:48,700 --> 00:13:50,000
+And make it sense.
+
+223
+00:13:50,160 --> 00:13:55,000
+I felt like some of those themes
+were records I could've played,
+
+224
+00:13:55,430 --> 00:13:57,10
+at raves.
+
+225
+00:13:57,10 --> 00:14:00,490
+And it would've been incredible,
+it wouldn't of been like
+
+226
+00:14:00,490 --> 00:14:02,000
+this sounds like somebody trying to
+sound like such & such.
+
+227
+00:14:02,000 --> 00:14:04,000
+No it sounded like….
+
+228
+00:14:04,000 --> 00:14:08,000
+There’s one theme on Streets of Rage 2
+that I kid you not.
+
+229
+00:14:08,000 --> 00:14:12,403
+It sounded like Juan Atkins or Derrick May
+could of co-produced it.
+
+230
+00:14:18,623 --> 00:14:30,326
+♪ (GO STRAIGHT continues) ♪
+
+231
+00:14:31,366 --> 00:14:33,430
+I'm at what used to be a club named Yellow.
+
+232
+00:14:33,430 --> 00:14:37,000
+When did I come here? Long time ago...
+
+233
+00:14:37,000 --> 00:14:42,610
+Back then, I was still only 22 or 23.
+
+234
+00:14:42,610 --> 00:14:46,483
+I was young and full of energy,
+so I danced all night.
+
+235
+00:14:46,483 --> 00:14:48,246
+Until morning.
+
+236
+00:14:53,426 --> 00:14:57,40
+The music I made for Streets of Rage 2
+
+237
+00:14:57,40 --> 00:15:00,20
+was more techno than the first one.
+
+238
+00:15:00,20 --> 00:15:03,13
+That's because it was techno or hard ones
+that I was hearing
+
+239
+00:15:03,13 --> 00:15:06,266
+when I went to Yellow and other clubs.
+
+240
+00:15:06,266 --> 00:15:10,150
+I didn't know about no Techno
+when I was a kid.
+
+241
+00:15:10,150 --> 00:15:11,476
+So hearing...
+
+242
+00:15:11,476 --> 00:15:13,382
+(humming techno)
+
+243
+00:15:14,872 --> 00:15:16,89
+“This is sick!”
+
+244
+00:15:16,90 --> 00:15:17,280
+“LIAM GET OFF THE COMPUTER!”
+
+245
+00:15:17,280 --> 00:15:17,882
+“NO!”
+
+246
+00:15:17,883 --> 00:15:18,946
+(laughs)
+
+247
+00:15:24,656 --> 00:15:28,969
+What originally influenced me
+when making the Streets of Rage music
+
+248
+00:15:28,970 --> 00:15:36,134
+wasn't Japanese music, 
+but American and British music.
+
+249
+00:15:37,160 --> 00:15:43,130
+It feels kind of strange to hear
+those people say they like my music.
+
+250
+00:15:43,130 --> 00:15:45,830
+"But it was your music originally."
+
+251
+00:15:45,930 --> 00:15:49,969
+♪ (RANDOM CROSS from Streets of Rage 3) ♪
+
+252
+00:15:51,390 --> 00:15:53,340
+(Just Blaze) You have these guys,
+
+253
+00:15:53,340 --> 00:15:55,000
+literally on the other side of the world,
+
+254
+00:15:55,000 --> 00:15:57,710
+Directly influencing an entire generation
+
+255
+00:15:57,710 --> 00:16:01,220
+of American kids and music nerds.
+
+256
+00:16:01,220 --> 00:16:03,146
+When somebody has influenced
+you to the point
+
+257
+00:16:03,146 --> 00:16:06,122
+where they are a part of your,
+being of your essence,
+
+258
+00:16:06,122 --> 00:16:07,740
+how do you put that into words?
+
+259
+00:16:07,740 --> 00:16:10,353
+If I met Yuzo or any of those dudes,
+I wouldn't say anything.
+
+260
+00:16:10,353 --> 00:16:11,415
+I'd just give him a hug.
+
+261
+00:16:11,416 --> 00:16:12,670
+And be like, yo thank you
+
+262
+00:16:12,670 --> 00:16:14,890
+Thank you, Thank you. Thank you.
+If you're watching this
+
+263
+00:16:14,890 --> 00:16:16,000
+Thank-you.
+
+264
+00:16:16,000 --> 00:16:19,320
+It's a real honor for me
+to have people say that kind of thing.
+
+265
+00:16:19,320 --> 00:16:23,546
+I tried my hardest
+to bring the music I liked,
+
+266
+00:16:23,546 --> 00:16:29,662
+the club music and the fresh sounds
+that I aspired to
+
+267
+00:16:29,662 --> 00:16:32,980
+into the world of game music.
+
+268
+00:16:32,980 --> 00:16:37,140
+It almost makes me 
+want to go back 25 years
+
+269
+00:16:37,140 --> 00:16:38,989
+and give myself a pat on the back.
+
+270
+00:16:38,989 --> 00:16:40,109
+(laughs)
+
+271
+00:16:41,418 --> 00:16:45,418
+♪ (STATTS from Sword of Vermilion) ♪
+
