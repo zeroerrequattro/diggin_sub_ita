@@ -5,12 +5,11 @@ il mondo in così tanti modi
 
 2
 00:00:04,127 --> 00:00:07,313
-Il cibo,
-la tecnologia
+Il cibo, la tecnologia
 
 3
 00:00:07,313 --> 00:00:09,466
-o il contributo alla cultura popolare
+o il loro contributo alla cultura popolare
 
 4
 00:00:09,467 --> 00:00:10,728
@@ -71,8 +70,7 @@ di tutto il Giappone erano vive
 
 17
 00:00:54,211 --> 00:00:56,607
-con i loro bip elettronici
-e le melodie semplici,
+con i loro bip elettronici e le melodie semplici
 
 18
 00:00:56,607 --> 00:00:59,54
@@ -143,7 +141,7 @@ o forse solo un effetto sonoro
 
 34
 00:01:44,768 --> 00:01:48,989
-♪ (suoni e rumori da Space Invaders) ♪
+♪ (rumori da Space Invaders) ♪
 
 35
 00:01:49,59 --> 00:01:53,436
@@ -151,8 +149,7 @@ Space invaders fu un grande successo al tempo
 
 36
 00:01:53,436 --> 00:01:57,497
-c'erano sale giochi 
-che avevano solo Space Invaders
+c'erano sale giochi che avevano solo Space Invaders
 
 37
 00:01:57,497 --> 00:02:00,409
@@ -164,8 +161,8 @@ Il successo di Space Invaders fu così grande
 
 39
 00:02:03,923 --> 00:02:08,747
-che ci fù pure la diceria delle
-monete da 100¥ che scarseggiavano
+che si sparse la voce delle monete
+da 100¥ che scarseggiavano
 
 40
 00:02:08,747 --> 00:02:16,203
@@ -190,8 +187,7 @@ Non c'è niente come loro per i giapponesi,
 
 45
 00:02:34,91 --> 00:02:37,969
-Namco è come se fosse
-il padrino della game music
+Namco è un pò come il padrino della game music
 
 46
 00:02:38,49 --> 00:02:46,697
@@ -256,17 +252,15 @@ Ci sono quasi
 
 61
 00:03:23,388 --> 00:03:26,496
-Quella roba 8-bit è 
-come un virus, è infetta
+Quella roba 8-bit è come un virus, è infetta
 
 62
 00:03:26,496 --> 00:03:29,800
-è uscita da questo piccolo mondo
-dei giochi 8-bit
+esce da questo piccolo mondo dei giochi 8-bit
 
 63
 00:03:29,800 --> 00:03:33,395
-E si è espansa per infettare
+E si espande per infettare
 così tanti generi differenti
 
 64
@@ -289,7 +283,7 @@ ragazzini Hip-Hop sapessero
 
 68
 00:03:47,626 --> 00:03:50,125
-che questa musica 8-bit, 16-bit
+questa musica 8-bit, 16-bit
 
 69
 00:03:50,125 --> 00:03:52,575
@@ -314,7 +308,7 @@ non era uno scherzo
 
 74
 00:04:00,140 --> 00:04:03,136
-All'epoca Namco, come veniva chiamata allora,
+All'epoca Namco, come veniva chiamata allora
 
 75
 00:04:03,136 --> 00:04:07,428
@@ -350,7 +344,7 @@ Il mio primo gioco è stato Gaplus
 82
 00:04:36,864 --> 00:04:43,275
 Quanto sono entrata in Namco
-non sembrava di essere in una azienda
+non sembrava di stare in un'azienda
 
 83
 00:04:43,276 --> 00:04:47,171
@@ -380,8 +374,8 @@ Al tempo
 
 89
 00:05:04,212 --> 00:05:08,395
-c'erano compagnie
-che copiavano i giochi illegalmente,
+c'erano compagnie che copiavano
+i giochi illegalmente
 
 90
 00:05:08,395 --> 00:05:10,734
@@ -403,8 +397,8 @@ sarei stata rapita
 
 94
 00:05:18,65 --> 00:05:23,885
-ed avrebbero chiesto i progetti per un nuovo gioco
-invece del riscatto
+ed avrebbero chiesto i progetti
+per un nuovo gioco invece del riscatto
 
 95
 00:05:23,885 --> 00:05:25,965
@@ -460,7 +454,7 @@ Mi chiamo Okubo
 
 107
 00:06:19,356 --> 00:06:21,433
-Questo è un circuito stampato con sopra
+Questo è un circuito con sopra
 
 108
 00:06:21,434 --> 00:06:22,890
@@ -468,7 +462,7 @@ il programma per Tower of Druaga
 
 109
 00:06:22,890 --> 00:06:25,185
-La parte che contiene il gioco è qui intorno,
+La parte che contiene il gioco è qui intorno
 
 110
 00:06:25,185 --> 00:06:26,998
@@ -521,7 +515,7 @@ e ci sono tante onde differenti
 
 121
 00:07:04,17 --> 00:07:08,371
-Ogni singola onda è molto carina
+Ogni singola onda era molto carina
 
 122
 00:07:08,371 --> 00:07:12,15
@@ -552,7 +546,7 @@ nella ROM di Tower of Druaga
 
 128
 00:07:27,569 --> 00:07:30,388
-Il primo n°0 è quadrato
+Il primo, il n°0, è quadrato
 
 129
 00:07:30,897 --> 00:07:34,587
@@ -560,7 +554,7 @@ Il primo n°0 è quadrato
 
 130
 00:07:34,648 --> 00:07:36,670
-E poi n°1
+E poi il n°1
 
 131
 00:07:36,740 --> 00:07:39,642
@@ -685,7 +679,7 @@ Ma il Nintendo era una droga
 
 159
 00:09:11,400 --> 00:09:15,487
-La sua musica era fichissima
+La musica dei primi Nintendo era fichissima
 il suono elettronico che aveva
 
 160
@@ -704,8 +698,7 @@ con i loop che hanno creato
 
 163
 00:09:23,231 --> 00:09:25,326
-perchè sapevano che
-li avresti ascoltati
+perchè sapevano che li avresti ascoltati
 
 164
 00:09:25,326 --> 00:09:26,908
@@ -713,12 +706,11 @@ per ore e ore e ore
 
 165
 00:09:26,908 --> 00:09:29,830
-Hip Tanaka è tipo il capo
+Hip Tanaka è tipo il capo, credo
 
 166
 00:09:29,830 --> 00:09:34,60
-Credo, quando si tratta di
-chip music incredibile
+quando si tratta di chip music incredibile
 
 167
 00:09:34,60 --> 00:09:39,36
@@ -815,8 +807,7 @@ E' pacifica
 
 188
 00:11:01,530 --> 00:11:03,540
-Quando ho iniziato
-a lavorare in Nintendo
+Quando ho iniziato a lavorare in Nintendo
 
 189
 00:11:03,541 --> 00:11:05,566
@@ -843,7 +834,7 @@ e un pò di componenti
 
 194
 00:11:17,936 --> 00:11:20,111
-tagliavo e riprovavo
+tagliando e riprovando
 
 195
 00:11:20,111 --> 00:11:21,282
@@ -869,8 +860,7 @@ un chip audio al suo interno
 
 200
 00:11:34,336 --> 00:11:37,738
-e lo dovevo controllare
-con la CPU invece
+che invece dovevo controllare con la CPU
 
 201
 00:11:37,738 --> 00:11:39,733
@@ -903,7 +893,7 @@ e mi piace il basso di Jah Wobble
 
 208
 00:11:58,415 --> 00:12:00,448
-il bassista di una band chiamata PIL
+il bassista di una band chiamata P.I.L.
 
 209
 00:12:00,478 --> 00:12:03,69
@@ -921,7 +911,7 @@ la settimana per una birra
 
 212
 00:12:12,235 --> 00:12:16,440
-e per ascoltare reggae
+e per gustarmi il reggae
 prima di andare a casa
 
 213
@@ -1002,8 +992,8 @@ grandi casse come queste
 
 229
 00:13:25,624 --> 00:13:29,928
-ed ho provato ad imitare il rock
-con un Game Boy
+ed ho provato ad imitare
+il rock vero con un Game Boy
 
 230
 00:13:29,928 --> 00:13:33,218
@@ -1012,8 +1002,8 @@ e simili alle onde quadre
 
 231
 00:13:33,218 --> 00:13:36,248
-il Game Boy è buono per
-fare i suoni della chitarra
+quindi il Game Boy è buono per fare
+suoni simili alla chitarra
 
 232
 00:13:36,699 --> 00:13:44,40
@@ -1044,7 +1034,7 @@ per una cosa del genere
 
 238
 00:13:56,720 --> 00:13:59,712
-La ragione per cui ho lavorato così duramente all'epoca
+La ragione per cui ho lavorato così duramente allora
 
 239
 00:13:59,712 --> 00:14:02,178
@@ -1052,16 +1042,16 @@ La ragione per cui ho lavorato così duramente all'epoca
 
 240
 00:14:02,178 --> 00:14:04,510
-Non era così differente dall'essere un bambino
+Non era così diverso da un bimbo
 
 241
 00:14:04,510 --> 00:14:06,516
-andare nella vasca della sabbia
+che entra nella vasca della sabbia
 per la prima volta
 
 242
 00:14:06,516 --> 00:14:08,40
-e giocare coi giocattoli
+e gioca coi giocattoli
 
 243
 00:14:08,40 --> 00:14:11,68
